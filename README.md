@@ -25,19 +25,6 @@
 | **[ClipApp](https://github.com/Rayyan-Asia/ClipApp)** | Native Apple Silicon macOS screen recorder, Swift |
 | **[MyAccountant](https://github.com/Rayyan-Asia/MyAccountant)** | Flutter expense tracker — categorization, color coding, spend summaries |
 
-### 📊 GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rayyan-Asia&show_icons=true&hide_border=true&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Rayyan-Asia&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-Asia&layout=compact&hide_border=true&hide=jupyter%20notebook&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-Asia&layout=compact&hide_border=true&hide=jupyter%20notebook" height="165" alt="Top languages" />
-  </picture>
-</p>
-
 ### 🐍 Contribution activity
 
 <picture>
