@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Rayyan 👋</h1>
 
 <p align="center">
-  Backend Engineer · M.S. in AI candidate · B.S. in Computer Science, Birzeit University<br/>
-  Shipping production-shaped systems, not just tutorials.
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Engineer;M.S.+in+AI+Candidate;B.S.+in+Computer+Science%2C+Birzeit+University" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -25,6 +24,27 @@
 | **[InSync](https://github.com/Rayyan-Asia/InSync)** | Script that keeps a team's dev branches in sync with a release branch — auto-merges, opens conflict MRs, notifies over Slack |
 | **[ClipApp](https://github.com/Rayyan-Asia/ClipApp)** | Native Apple Silicon macOS screen recorder, Swift |
 | **[MyAccountant](https://github.com/Rayyan-Asia/MyAccountant)** | Flutter expense tracker — categorization, color coding, spend summaries |
+
+### 📊 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rayyan-Asia&show_icons=true&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rayyan-Asia&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-Asia&layout=compact&hide_border=true&hide=jupyter%20notebook&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-Asia&layout=compact&hide_border=true&hide=jupyter%20notebook" height="165" alt="Top languages" />
+  </picture>
+</p>
+
+### 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayyan-Asia/Rayyan-Asia/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayyan-Asia/Rayyan-Asia/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Rayyan-Asia/Rayyan-Asia/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### 📫 Reach me
 
