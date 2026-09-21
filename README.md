@@ -23,17 +23,6 @@
 
 ---
 
-### 🔭 Currently building — [mal3abi](https://github.com/Rayyan-Asia/mal3abi) <sub>(private — happy to walk through it or grant access)</sub>
-
-A sports-field booking platform for Palestine, built solo end-to-end:
-
-- **Backend** — Spring Boot 3 / Java 21, Postgres + Flyway, JWT auth with rotating
-  refresh tokens, MinIO for media, card payments via Lahza. Designed the domain
-  model (sparse-slot availability, pessimistic-locked booking transfer, dynamic
-  hour ranges) and the API contract consumed by both client apps.
-- Also ships web and mobile clients against that API, with full E2E coverage
-  (Jest + Cypress on web, Jest + Detox on mobile) — built test-first throughout.
-
 ### 🤖 AI & machine learning
 
 - **[BiteBot](https://github.com/Rayyan-Asia/BiteBot)** — production Discord bot
