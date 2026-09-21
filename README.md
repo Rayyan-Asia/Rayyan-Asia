@@ -15,14 +15,14 @@
 
 ---
 
-### 🧩 Selected projects
+### 🧩 Latest personal projects
 
 | Project | What it is |
 |---|---|
-| **[BiteBot](https://github.com/Rayyan-Asia/BiteBot)** | Discord bot for group food ordering — .NET 9, Discord.Net, Postgres, full audit logging |
 | **[DiscordClipHandler](https://github.com/Rayyan-Asia/DiscordClipHandler)** | Dockerized Python service that watches a folder, ships clips to Discord, and emails a report |
-| **[InSync](https://github.com/Rayyan-Asia/InSync)** | Script that keeps a team's dev branches in sync with a release branch — auto-merges, opens conflict MRs, notifies over Slack |
 | **[ClipApp](https://github.com/Rayyan-Asia/ClipApp)** | Native Apple Silicon macOS screen recorder, Swift |
+| **[BiteBot](https://github.com/Rayyan-Asia/BiteBot)** | Discord bot for group food ordering — .NET 9, Discord.Net, Postgres, full audit logging |
+| **[InSync](https://github.com/Rayyan-Asia/InSync)** | Script that keeps a team's dev branches in sync with a release branch — auto-merges, opens conflict MRs, notifies over Slack |
 | **[MyAccountant](https://github.com/Rayyan-Asia/MyAccountant)** | Flutter expense tracker — categorization, color coding, spend summaries |
 
 ### 🐍 Contribution activity
