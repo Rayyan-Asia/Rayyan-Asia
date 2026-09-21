@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rayyan 👋</h1>
 
 <p align="center">
-  Backend Engineer · CS/ECE student at Birzeit University<br/>
+  Backend Engineer · M.S. in AI candidate · B.S. in Computer Science, Birzeit University<br/>
   Shipping production-shaped systems, not just tutorials.
 </p>
 
